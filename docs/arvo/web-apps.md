@@ -19,7 +19,7 @@ poke it.  There'll be a button to poke the app, and line of text
 below it saying how many times the app has been poked.  We can
 update this by subscribing our page to the relevant path on its app.
 
-Let's first write the app, `/app/click.hoon`:
+Let's checkout the `click` app, which, assuming you've copied in the examples repo, you can find in `home/app/examples/click.hoon`:
 
 ```
 /?    314
